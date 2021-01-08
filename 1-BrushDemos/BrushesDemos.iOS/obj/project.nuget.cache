@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b9VIqgEwNhcZ8bcUyT6UEGlvl35f/5k5eyqbFQSkqiC9966doWutwrp+P+AgbUD62yJUuj5+vzoklbvUTqqIww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wahed\\Downloads\\xamarin-forms-samples-master\\UserInterface\\BrushDemos\\BrushesDemos.iOS\\BrushesDemos.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wahed\\.nuget\\packages\\xamarin.forms\\5.0.0.1874\\xamarin.forms.5.0.0.1874.nupkg.sha512"
+  ],
+  "logs": []
+}
