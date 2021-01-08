@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "e54nhvH/3oTAjKnCkT8sszcuTPFaqUT3i8EmSXSoPr4WYa6PZyYmiduPP7JIOzwDNPiuE4dSUBh79ADZlV6wUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wahed\\Downloads\\xamarin-forms-samples-master\\1-DragAndDropGesture\\DragAndDropGesture\\DragAndDropGesture.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wahed\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\wahed\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\wahed\\.nuget\\packages\\xamarin.forms\\5.0.0.1874\\xamarin.forms.5.0.0.1874.nupkg.sha512"
+  ],
+  "logs": []
+}

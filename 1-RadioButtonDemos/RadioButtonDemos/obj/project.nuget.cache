@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "u+w2gpaz33cA35XW/6tAdK9V9cJcVWG/PyPtQN0kYMCd1FNzE6xuqzxwOQjsUJRXGg6zTZJ+iovKSww8lmmtQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wahed\\Downloads\\xamarin-forms-samples-master\\UserInterface\\RadioButtonDemos\\RadioButtonDemos\\RadioButtonDemos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wahed\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\wahed\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\wahed\\.nuget\\packages\\xamarin.forms\\5.0.0.1874\\xamarin.forms.5.0.0.1874.nupkg.sha512"
+  ],
+  "logs": []
+}

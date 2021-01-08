@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JW+02bjtHeBogKatstZ/V/Vj4CGD0lBbBRKPGzWGkENurSF2WrW1M2srG8f5dBeBdjqFlK4BKYOGBT0Ep5Sdfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wahed\\Downloads\\xamarin-forms-samples-master\\UserInterface\\RadioButtonDemos\\RadioButtonDemos.iOS\\RadioButtonDemos.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wahed\\.nuget\\packages\\xamarin.forms\\5.0.0.1874\\xamarin.forms.5.0.0.1874.nupkg.sha512"
+  ],
+  "logs": []
+}
